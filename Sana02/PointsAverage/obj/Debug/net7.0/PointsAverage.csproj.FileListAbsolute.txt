@@ -1,0 +1,14 @@
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.exe
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.deps.json
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.runtimeconfig.json
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.dll
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\bin\Debug\net7.0\PointsAverage.pdb
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.AssemblyInfo.cs
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.dll
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\obj\Debug\net7.0\refint\PointsAverage.dll
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.pdb
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\obj\Debug\net7.0\PointsAverage.genruntimeconfig.cache
+C:\Users\Oleksandr\Desktop\лабивізуал\Sana02\Sana02\PointsAverage\obj\Debug\net7.0\ref\PointsAverage.dll
